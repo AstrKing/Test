@@ -18,6 +18,8 @@ public class ChStr
         }
     }
 
+    // 更改
+    
     //处理字符串中的空值
     public static final String nullToString(String v, String toV) {
         if (v == null || "".equals(v)) {
